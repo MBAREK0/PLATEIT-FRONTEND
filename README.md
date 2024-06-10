@@ -1,5 +1,4 @@
-# vuejs-tailwind-app
-
+# PLATEIT-FRONTEND
 ## Project setup
 ```
 npm install
